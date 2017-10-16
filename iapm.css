@@ -22,7 +22,7 @@
 .wrapper > div {
 	background:#eee;
 	/*padding:1em;*/
-	border-color:#000000; 
+	border:#333 1px solid; 
 }
 
 /*.wrapper > div:nth-child(odd){
